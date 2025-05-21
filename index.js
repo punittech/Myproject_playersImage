@@ -6,11 +6,11 @@
    const container = document.querySelector('.container');
     const table = document.getElementById('myTable');
 
-    tableContainer.addEventListener('mouseover', () => {
+    container.addEventListener('mouseover', () => {
       table.style.display = 'block';
     });
 
-    tableContainer.addEventListener('mouseout', () => {
+    container.addEventListener('mouseout', () => {
       table.style.display = 'none';
     });
 
