@@ -1,5 +1,21 @@
 
-
+.title{
+   text-align: center; 
+   color: rgb(244, 140, 158)
+}
+.unit{
+     padding-left: 3%; 
+     padding-top: 1%;
+}
+.tag{
+     background-color: #c05e6e; 
+     color: antiquewhite; 
+     position:sticky; 
+     left:80%
+}
+.parent {
+   width: 100%
+}
 .main_border{
   border: 2px solid pink; 
   width: 50%; 
@@ -46,4 +62,15 @@ marquee {
   font-weight:400;
   font-size:medium;
   color: rgb(128, 0, 255);
+}
+.delmessage{
+     color: #c05e6e; 
+     position: relative; 
+     left: 25%
+}
+.total{
+       position: sticky; 
+       left: 65%; 
+       top: 0px; 
+       color: black
 }

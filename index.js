@@ -1,4 +1,9 @@
-    const tableContainer = document.querySelector('.table-container');
+   
+   /*Toggle code for box2*/
+   
+   
+   
+   const tableContainer = document.querySelector('.table-container');
     const table = document.getElementById('myTable');
 
     tableContainer.addEventListener('mouseover', () => {
