@@ -3,7 +3,7 @@
    
    
    
-   const tableContainer = document.querySelector('.table-container');
+   const container = document.querySelector('.container');
     const table = document.getElementById('myTable');
 
     tableContainer.addEventListener('mouseover', () => {
